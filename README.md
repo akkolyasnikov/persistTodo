@@ -1,16 +1,8 @@
-# bloc_ex
+# ScopedModel Todo
 
-A new Flutter project.
+New sample project. The one of application set which maded for imporovment of my skills and intgration in modern level of flutter developing
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+What you can do with that app ? You can download and use it. But it unuseful app. 
+I made it for grown my skills at programming. It mean you will get bad user experience
